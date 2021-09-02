@@ -1,0 +1,17 @@
+<template>
+    <lightning-spinner if:true={isLoading} variant="brand" message={loadMessage}></lightning-spinner>
+    <lightning-card title="Custom Datatable">
+        <div if:true={error} class="slds-var-p-around_small slds-text-color_error">{error}</div>
+        <c-vk-datatable if:true={showTable}
+            columns={columns} 
+            records={opps}
+            show-row-number
+            show-checkbox
+            show-pagination
+            place-holder="Search..." 
+            page-size-options={pageSizeOptions} 
+            onrowselection={handleRowSelection} 
+            onsave={saveRecords}>
+        </c-vk-datatable>
+    </lightning-card>
+</template>

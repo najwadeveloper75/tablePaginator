@@ -4,7 +4,7 @@ Clone/Download master branch into local system using Visual Studio Code and read
 References:
 - Reference 1: https://vkambham.blogspot.com/2020/04/lwc-lookup.html
 - Reference 2: https://vkambham.blogspot.com/2021/01/lwc-datatable.html
-- Notes: lookup component (Reference 1) is a component that exists as an unmanaged package. Previously, the lookup component is installed into a test org and retrieved using VSCode. It is stored as component in the zip folder in step 1.
+- Notes: lookup component (Reference 1) is a component that exists as an unmanaged package. Previously, the lookup component is installed into a test org and retrieved using VSCode. It is stored as component in the master branch of tablePaginator repo.
 
 # Salesforce DX Project: Next Steps
 

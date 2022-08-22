@@ -1,5 +1,5 @@
 # Installation Steps
-Clone/Download master branch into local system using Visual Studio Code and ready to deploy to target org. Add component to app/record/home page as needed in the org.
+Clone/Download master branch into local system using Visual Studio Code and deploy to target org. Master branch is deploy-ready. No configuration is needed to the target org. Once deployed, add component to app/record/home page as needed in the org.
 
 References:
 - Reference 1: https://vkambham.blogspot.com/2020/04/lwc-lookup.html

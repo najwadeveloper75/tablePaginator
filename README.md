@@ -2,9 +2,9 @@
 Clone/Download master branch into local system using Visual Studio Code and ready to deploy to target org. Add component to app/record/home page as needed in the org.
 
 References:
-Reference 1: https://vkambham.blogspot.com/2020/04/lwc-lookup.html
-Reference 2: https://vkambham.blogspot.com/2021/01/lwc-datatable.html
-Notes: lookup component (Reference 1) is a component that exists as an unmanaged package. Previously, the lookup component is installed and retrieved using VSCode. It is stored as component in the zip folder in step 1.
+- Reference 1: https://vkambham.blogspot.com/2020/04/lwc-lookup.html
+- Reference 2: https://vkambham.blogspot.com/2021/01/lwc-datatable.html
+- Notes: lookup component (Reference 1) is a component that exists as an unmanaged package. Previously, the lookup component is installed and retrieved using VSCode. It is stored as component in the zip folder in step 1.
 
 # Salesforce DX Project: Next Steps
 
